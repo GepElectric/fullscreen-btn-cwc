@@ -1,0 +1,12 @@
+{
+  "id": "fullscreen_module",
+  "name": "Fullscreen Module",
+  "version": "0.1.0",
+  "entrypoint": "FullscreenModule/FullscreenModule.exe",
+  "working_dir": "FullscreenModule",
+  "args": [],
+  "autostart_default": false,
+  "config_schema_path": "requirements.txt",
+  "log_path": "fullscreen_module.log",
+  "capabilities": ["open_pipe", "fullscreen", "localhost_helper"]
+}

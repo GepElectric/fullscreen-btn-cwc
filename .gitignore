@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+*.zip
+
+_ModuleTemplate_extract/build/
+_ModuleTemplate_extract/dist/
+_ModuleTemplate_extract/__pycache__/
+
+Thumbs.db
+.DS_Store
