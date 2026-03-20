@@ -1,5 +1,8 @@
 # Full Screen Button CWC
 
+[![Repo](https://img.shields.io/badge/GitHub-fullscreen--btn--cwc-24292f?logo=github)](https://github.com/GepElectric/fullscreen-btn-cwc)
+[![Release](https://img.shields.io/github/v/release/GepElectric/fullscreen-btn-cwc)](https://github.com/GepElectric/fullscreen-btn-cwc/releases)
+
 `Full screen btn` is a WinCC Unified Custom Web Control that triggers reliable fullscreen enter/exit behavior using a dedicated local helper backend.
 
 ## Repository Contents
